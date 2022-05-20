@@ -3,7 +3,8 @@
     "nice_name": "LendMark Network",
     "direct_ip": "mc.lendmark.sk",
     "server_wildcards": [
-        "%.lendmark.sk"
+        "%.lendmark.sk",
+        "%.lendmark.cz"
     ],
     "supported_languages": [
         "sk",
@@ -12,7 +13,7 @@
     "social": {
         "web": "https://lendmark.sk/",
         "web_shop": "https://store.lendmark.sk/",
-        "discord": "https://discord.com/invite/6Dg3jM8JE2",
+        "discord": "https://discord.lendmark.sk/",
         "tiktok": "lendmark.sk",
         "instagram": "lendmark.sk",
         "youtube": "https://www.youtube.com/channel/UC1Khdip7ObGGN4OCsuSlg0g"
